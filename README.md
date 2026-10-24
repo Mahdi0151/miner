@@ -1,2 +1,2 @@
-# miner
-APK
+
+DogeMiner.zip
