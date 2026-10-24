@@ -1,2 +1,2 @@
 
-DogeMiner.zip
+DogeMiner.APP
